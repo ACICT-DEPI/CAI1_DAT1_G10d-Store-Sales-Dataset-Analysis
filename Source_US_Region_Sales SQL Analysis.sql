@@ -660,7 +660,7 @@ FROM Sales_and_Profit_By_Geography
 ORDER BY Region, State, County;
 
 --Geographic Analysis--
---(33) (What impact does the store’s proximity to customers (latitude/longitude) have on sales?)
+--(33) (What impact does the storeÂ’s proximity to customers (latitude/longitude) have on sales?)
 --What Data is Needed?
 --From the orders table, we will use:Order_Quantity: The quantity of products sold.
 --From the Store_Location table:Latitude and Longitude: The geographic coordinates of each store.
